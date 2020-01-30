@@ -1,0 +1,11 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5df255ebd3387e1cd4c7fb06
+type: experiment
+name: live lab
+stickinessProperty: TenantId
+flag: live_lab
+conditions:
+  - group:
+      name: TenantId
+    value: true
+value: false
