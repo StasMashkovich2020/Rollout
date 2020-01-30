@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5df2506ed3387e1cd4c7facc
+type: experiment
+name: stas test
+flag: StasTest
+value: true
