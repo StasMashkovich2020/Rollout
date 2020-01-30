@@ -1,0 +1,7 @@
+type: target-group
+name: TenantId
+conditions:
+  - operator: in-array
+    property: TenantId
+    operand:
+      - 048d3179-50b5-40d3-b1f3-f7a7667379441
