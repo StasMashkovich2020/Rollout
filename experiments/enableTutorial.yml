@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5df259a1d3387e1cd4c7fb22
+type: experiment
+name: enable tutorial
+flag: enableTutorial
+value:
+  - percentage: 99
+    option: true
