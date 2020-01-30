@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5df2566ec231a21e19e1fe52
+type: experiment
+name: title colors
+flag: titleColors
+availableValues:
+  - White
+  - Green
+  - Blue
+value: Green
