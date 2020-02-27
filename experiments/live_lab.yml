@@ -6,6 +6,6 @@ stickinessProperty: TenantId
 flag: live_lab
 conditions:
   - group:
-      name: Clients
+      name: TenantId
     value: true
 value: false
