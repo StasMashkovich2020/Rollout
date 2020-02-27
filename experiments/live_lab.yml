@@ -5,5 +5,5 @@ name: live lab
 stickinessProperty: TenantId
 flag: live_lab
 conditions:
-  - value: true
+  - {}
 value: false
