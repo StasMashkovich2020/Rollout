@@ -2,7 +2,7 @@
 # URL: https://app.rollout.io/ex/5df255ebd3387e1cd4c7fb06
 type: experiment
 name: live lab
-stickinessProperty: TenantId
+stickinessProperty: ClientId
 flag: live_lab
 conditions:
   - group:
