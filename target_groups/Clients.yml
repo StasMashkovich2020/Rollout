@@ -1,5 +1,6 @@
 type: target-group
 name: Clients
+operator: or
 conditions:
   - operator: in-array
     property: ClientId
