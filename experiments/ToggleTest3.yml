@@ -3,4 +3,4 @@
 type: experiment
 name: toggle test 3
 flag: ToggleTest3
-value: false
+value: true
