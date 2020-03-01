@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e5b97fc8096cce61a232588
+type: experiment
+name: toggle test 3
+flag: ToggleTest3
+value: false
