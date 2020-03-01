@@ -3,4 +3,6 @@
 type: experiment
 name: toggle test 1
 flag: ToggleTest1
-value: false
+value:
+  - percentage: 98
+    option: true
