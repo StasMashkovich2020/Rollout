@@ -3,4 +3,8 @@
 type: experiment
 name: toggle test 1
 flag: ToggleTest1
-value: true
+conditions:
+  - group:
+      name: Clients
+    value: true
+value: false
