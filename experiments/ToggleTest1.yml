@@ -6,5 +6,7 @@ flag: ToggleTest1
 conditions:
   - group:
       name: Clients
-    value: true
+    value:
+      - percentage: 50
+        option: true
 value: false
