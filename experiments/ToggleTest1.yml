@@ -6,4 +6,5 @@ flag: ToggleTest1
 conditions:
   - group:
       name: Clients
+    value: true
 value: false
