@@ -4,5 +4,5 @@ type: experiment
 name: toggle test 3
 flag: ToggleTest3
 value:
-  - percentage: 35
+  - percentage: 50
     option: true
